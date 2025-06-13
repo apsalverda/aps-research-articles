@@ -1,2 +1,2 @@
 # Research
-A collection of my research articles in academia and industry
+A collection of my research articles and technical reports, in academia and industry.
